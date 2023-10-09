@@ -1,0 +1,11 @@
+
+<div id="quote" class="card quote">
+    <div class="card-body btn"
+            hx-get="/quote"
+            hx-trigger="click, every 5s"
+            hx-target="#quote" 
+            hx-swap="outerHTML settle:1s">
+        {{ quote.text }}
+    </div>
+</div>
+
