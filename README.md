@@ -3,7 +3,7 @@
 ## Установка
 
 клонировать репозиторий и перейти в каталог:
-`git clone git@github.com:YuriyGrinev/example-htmx.git && cd example-htmx`
+`git clone git@github.com:YuriyGrinev/examples-htmx.git && cd examples-htmx`
 
 ### Requires
 
